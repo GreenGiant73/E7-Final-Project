@@ -1,0 +1,1 @@
+ID;StrategyName;Sector;NumberUsed;TotalCost;Challenges5;CCS Electricity;Electricity;2;d;Possible leakage
