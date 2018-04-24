@@ -1,1 +1,5 @@
-ID;StrategyName;Sector;NumberUsed;TotalCost;Challenges5;CCS Electricity;Electricity;2;d;Possible leakage
+ID;StrategyName;Sector;NumberUsed;TotalCost;Challenges
+10;Wind Electricity;Electricity;2;4;Local opposition
+10;Wind Electricity;Electricity;1;2;Local opposition
+12;Wind Hydrogen;Transportation,Fuel;1;3;Local opposition, Hydrogen infrastructure, safety
+5;CCS Electricity;Electricity;1;2;Possible leakage
