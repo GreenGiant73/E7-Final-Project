@@ -1,1 +1,6 @@
 ID;StrategyName;Sector;NumberUsed;TotalCost;Challenges
+1;Transport Efficiency;Transportation;2;2; Car size and power
+2;Transport Conservation;Transportation;1;1;Increased public transport and urban design
+9;Nuclear Electricity;Electricity;1;2;Weapons proliferation, nuclear waste, local opposition
+10;Wind Electricity;Electricity;2;4;Local opposition
+13;Biofuels;Transportation,Fuel;2;4;Biodiversity, competing land use
